@@ -1,0 +1,14 @@
+{
+  "name": "songlang",
+  "version": "0.0.1",
+  "private": true,
+  "description": "Learn languages through music with SongLang by Emarov.",
+  "scripts": {
+    "start": "react-native start",
+    "android": "react-native run-android",
+    "ios": "react-native run-ios",
+    "test": "jest"
+  },
+  "dependencies": {},
+  "devDependencies": {}
+}
